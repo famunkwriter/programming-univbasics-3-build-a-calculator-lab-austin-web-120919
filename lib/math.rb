@@ -3,7 +3,7 @@ num1 = 5
 num2 = 4
 
 def addition(num1, num2)
-  push num1 + num2
+  num1 + num2
 end
 
 addition = num1 + num2
